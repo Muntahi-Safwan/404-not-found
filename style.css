@@ -72,6 +72,29 @@
   text-transform: uppercase;
 }
 
+footer {
+  margin-top: 30px;
+}
+
+footer p {
+  color: #bdbdbd;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+footer span {
+  color: #bdbdbd;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+
 @media screen and (max-width: 949px) {
   .nav-txt h3 {
     margin-left: 1em;
